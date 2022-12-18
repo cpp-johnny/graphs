@@ -1,3 +1,6 @@
+// Here is an example of how you can implement BFS in C++ using a queue:
+
+
 #include <iostream>
 #include <vector>
 #include <queue>
