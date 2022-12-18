@@ -1,0 +1,9 @@
+BFS(G, v):
+  create a queue Q
+  mark v as visited and enqueue it to Q
+  while Q is not empty:
+    dequeue the front element from Q and assign it to u
+    for each neighbor w of u:
+      if w is not visited:
+        mark w as visited
+        enqueue w to Q
