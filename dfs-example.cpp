@@ -1,3 +1,5 @@
+// Here is an example of how you can implement DFS in C++ using a stack:
+
 #include <iostream>
 #include <vector>
 #include <stack>
