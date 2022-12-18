@@ -1,0 +1,5 @@
+DFS(G, v):
+  mark v as visited
+  for each neighbor u of v:
+    if u is not visited:
+      DFS(G, u)
